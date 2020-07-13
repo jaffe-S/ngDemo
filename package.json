@@ -1,9 +1,9 @@
 {
-  "name": "my-app",
+  "name": "loginDome",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --open --port 4200",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
